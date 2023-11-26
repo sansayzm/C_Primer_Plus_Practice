@@ -1,4 +1,5 @@
-# C Primer Plus 第六版 示例代码
+# C Primer Plus 6th Edition Source Code & Practices Code
+# C Primer Plus 第六版 示例源代码 练习代码
 
 - 本代码库包含所有实例代码
 - 本代码也包含课后练习的代码实现
